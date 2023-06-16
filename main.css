@@ -80,10 +80,10 @@ nav ul li.current a::after,
 nav ul li.current a:hover::after {
 	transform: scale(1, 1);
 }
-/* .navLogo {
+.navLogo {
 	max-width: 200%;
   max-height: 200%;
-} */
+}
 .navTitile {
 	display: block;
 	font-size: 20px;
