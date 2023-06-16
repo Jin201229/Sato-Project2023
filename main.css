@@ -97,5 +97,11 @@ nav ul li.current a:hover::after {
   background: #333;
   text-align: center;
   padding: 50px 0;
-	color: #fff;
+  color: #fff;
+}
+
+/* ツイート埋め込みを中央寄せ */
+.instagram-center {
+	margin:0 auto;
+	max-width: 350px;
 }
