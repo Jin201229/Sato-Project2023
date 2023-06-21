@@ -100,8 +100,7 @@ nav ul li.current a:hover::after {
   color: #fff;
 }
 
-/* ツイート埋め込みを中央寄せ */
-.instagram-center {
-	margin:0 auto;
-	max-width: 350px;
+.SNS {
+  margin: auto;
+  max-width: 350px
 }
