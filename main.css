@@ -36,6 +36,7 @@ body {
     height: 100%;
     object-fit: cover;
   } */
+
   .slide-img{
     width: 50%;
     height: 50%;
@@ -104,7 +105,7 @@ body {
   /* ツイート埋め込みを中央寄せ */
   .instagram-media {
     margin-left: auto !important;
-  margin-right: auto !important;
+    margin-right: auto !important;
   }
 
 
