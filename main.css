@@ -225,8 +225,8 @@ nav ul li.current a:hover::after {
 }
 
 .myprof {
-  width: 350px;
-  height: 400px;
+  width: 320px;
+  height: 500px;
   letter-spacing: 0.05em;
   border-radius: 20px;  
   background: #C4C4C4;
