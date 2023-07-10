@@ -226,10 +226,10 @@ nav ul li.current a:hover::after {
 
 .myprof {
   width: 320px;
-  height: 500px;
+  height: 550px;
   letter-spacing: 0.05em;
   border-radius: 20px;  
-  background: #C4C4C4;
+  background: #C4C4C4; 
 }
 
 .myprof h2 {
@@ -255,11 +255,12 @@ nav ul li.current a:hover::after {
 .myprof ul {
   padding: 0.5em 1em 0.5em 2.3em;
   position: relative;
+  padding-left:0;
 }
 
-.myprofile ul li {
+.myprof ul li {
   line-height: 1.5;
   padding: 0.5em 0;
-  list-style-type: none !important;
+  list-style-type: none;
 }
 
