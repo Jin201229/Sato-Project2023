@@ -44,6 +44,15 @@ body {
   height: 50%;
 }
 
+.toppage .insta {
+  width: 10%;
+  height: 10%;
+}
+.toppage .slido {
+  width: 25%;
+  height: 25%;
+}
+
 /* .slider-3 .slick-arrow {
     width: 60px;
     height: 60px;
